@@ -27,13 +27,14 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Research
+See [Publications](/publications.md).
 
 ### CV & Contact
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/CV_Tosello.pdf">cv</a></li>
       </ul>
   </div>
 </div>
