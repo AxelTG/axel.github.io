@@ -4,4 +4,10 @@ author: Axel
 description: Here is my stuff.
 include:
   - "_img"
-avatar: "/assets/img/avatar-icon.png"
+
+social-network-links:
+  email: "someone@example.com"
+  github: daattali
+  twitter: daattali
+  linkedin: DeanAttali
+  youtube: c/daattali
