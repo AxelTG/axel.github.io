@@ -1,6 +1,6 @@
 ## Welcome to my personal webpage
 
-My name is Axel. I'm a M.Sc. student in Chemistry.
+My name is Axel. I'm a chemistry student at University of Pavia.
 
 
 ### About
