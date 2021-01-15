@@ -4,3 +4,4 @@ author: Axel
 description: Here is my stuff.
 include:
   - "_img"
+avatar: "/assets/img/avatar-icon.png"
