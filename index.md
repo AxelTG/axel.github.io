@@ -9,10 +9,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
 - Bulleted
 - List
 
@@ -27,6 +23,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Research
+
 See [Publications](/publications.md).
 
 ### CV & Contact
@@ -41,3 +38,4 @@ See [Publications](/publications.md).
 </div>
 
 ### [Miscellaneous](/miscellaneous.md)
+![image-title](/assets/guts-leaves.png){:class="img-responsive"}
