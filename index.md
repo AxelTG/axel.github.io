@@ -1,8 +1,3 @@
-## Welcome to my personal webpage
-
-My name is Axel. I'm a chemistry student at University of Pavia.
-
-
 ### About
 **Name** Axel <br>
 **Born** 1997 <br>
@@ -39,7 +34,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          
       </ul>
   </div>
 </div>
