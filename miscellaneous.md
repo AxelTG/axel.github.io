@@ -1,0 +1,3 @@
+#### What I've learnt from Berserk
+#### What I've learnt form OnePunch Man
+#### What I've not learnt yet...
