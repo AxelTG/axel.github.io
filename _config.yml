@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Ciao...
+author: Axel
 description: Here is my stuff.
 include:
   - "_img"
