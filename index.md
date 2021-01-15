@@ -7,6 +7,7 @@ My name is Axel. I'm a M.Sc. student in Chemistry.
 **Name** Axel <br>
 **Born** 1997 <br>
 **Birthplace** Italy <br>
+![image-title](/assets/guts-leaves.png){:class="img-responsive"}
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
