@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Ciao...
 description: Here is my stuff.
+include:
+  - "_img"
