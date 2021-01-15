@@ -4,6 +4,9 @@ My name is Axel. I'm a M.Sc. student in Chemistry.
 
 
 ### About
+**Name** Axel
+**Born** 1997
+**Birthplace** Italy
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
