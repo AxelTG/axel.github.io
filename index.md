@@ -1,9 +1,9 @@
 ## Welcome to my personal webpage
 
-My name is Axel.
+My name is Axel. I'm a M.Sc. student in Chemistry.
 
 
-### Markdown
+### About
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -27,6 +27,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Research
 
 ### CV & Contact
 
@@ -34,9 +35,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/kbroman">github</a></li>
-          <li><a href="https://kbroman.org/blog">blog</a></li>
-          <li><a href="https://twitter.com/kwbroman">@kwbroman</a></li>
+          
       </ul>
   </div>
 </div>
