@@ -2,10 +2,4 @@ theme: jekyll-theme-minimal
 title: Ciao...
 author: Axel
 description: Here is my stuff.
-social-network-links:
-  email: "someone@example.com"
-  github: daattali
-  twitter: daattali
-  linkedin: DeanAttali
-  youtube: c/daattali
 rss-description: This website is a virtual proof that I'm awesome
