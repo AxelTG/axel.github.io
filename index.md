@@ -33,6 +33,7 @@ See [Publications](/publications.md).
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV_Tosello.pdf">cv</a></li>
           <li>email: someone@gmail.com </li>
+          <li> </li>
       </ul>
   </div>
 </div>
