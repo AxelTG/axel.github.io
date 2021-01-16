@@ -1,3 +1,3 @@
 ### How I've started
 
-![image-title](/assets/yoda.jpeg){:class="img-responsive"}
+![image-title](/assets/yoda.png){:class="img-responsive"}
