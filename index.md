@@ -3,9 +3,8 @@
 **Born** 1997 <br>
 **Birthplace** Italy <br>
 
-I am a M.Sc. student at University of Pavia currently involved in a Computational Chemistry thesis project. 
+I am a M.Sc. student at University of Pavia currently involved in a thesis project about...... 
 
-![image-title](/assets/guts-leaves.png){:class="img-responsive"}
 
 ```markdown
 Syntax highlighted code block
