@@ -3,7 +3,7 @@
 **Born** 1997 <br>
 **Birthplace** Italy <br>
 
-I am currently attending the second year of my graduate study in Chemistry at the University of Pavia. My interest in, and passion for Science dates back to childhood. Throughout my studies I have explored the fascinating world of Computational Chemistry and its applications in reaction mechanism study and now I'm involved in .................
+I am a M.Sc. student at University of Pavia currently involved in a Computational Chemistry thesis project. 
 
 ![image-title](/assets/guts-leaves.png){:class="img-responsive"}
 
