@@ -34,6 +34,7 @@ See [Publications](/publications.md).
           <li><a href="{{ BASE_PATH }}/assets/CV_Tosello.pdf">cv</a></li>
           <li>email: someone@gmail.com </li>
           <li><a href="https://www.iit.it/it/research/lines/atomistic-simulations">IIT-Parrinello Group</a></li>
+          <li><a href = "mailto: abc@example.com">Send Email</a></li>
       </ul>
   </div>
 </div>
