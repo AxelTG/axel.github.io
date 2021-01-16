@@ -2,6 +2,8 @@
 **Name** Axel <br>
 **Born** 1997 <br>
 **Birthplace** Italy <br>
+
+I am currently attending the second year of my graduate study in Chemistry at the University of Pavia. My interest in, and passion for Science dates back to.
 ![image-title](/assets/guts-leaves.png){:class="img-responsive"}
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
