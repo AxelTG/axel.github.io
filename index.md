@@ -3,7 +3,7 @@
 **Born** 1997 <br>
 **Birthplace** Italy <br>
 
-I am currently attending the second year of my graduate study in Chemistry at the University of Pavia. My interest in, and passion for Science dates back to.
+I am currently attending the second year of my graduate study in Chemistry at the University of Pavia. My interest in, and passion for Science dates back to. Throughout my studies I have explored the fascinating world of Computational Chemistry and its applications in reaction mechanism study
 ![image-title](/assets/guts-leaves.png){:class="img-responsive"}
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
