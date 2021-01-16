@@ -32,7 +32,7 @@ See [Publications](/publications.md).
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV_Tosello.pdf">cv</a></li>
-          <li> Email:<a href = "mailto: someone@gmail.com">someone@gmail.com</a></li>
+          <li> Email:<a href = "mailto: someone@gmail.com"> someone@gmail.com</a></li>
           <li><a href="https://www.iit.it/it/research/lines/atomistic-simulations">IIT-Parrinello Group</a></li>
       </ul>
   </div>
