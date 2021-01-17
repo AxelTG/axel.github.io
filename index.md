@@ -2,6 +2,7 @@
 **Name** Axel <br>
 **Born** 1997 <br>
 **Birthplace** Italy <br>
+**Species** _Australopitecus Ignarus_
 
 I am a M.Sc. student at University of Pavia currently involved in a thesis project about...... 
 
