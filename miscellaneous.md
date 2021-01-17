@@ -1,5 +1,4 @@
 #### Miscellaneous
 
-##### [How I've started](/blog/how-started.md)
+##### [What I've learnt from One-Punch Man](/blog/one-punch.md)
 
-##### [Organic Chemist: from synthesist to theoretician](/blog/synthesis-to-comput.md)
