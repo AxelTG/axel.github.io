@@ -30,7 +30,7 @@ See [Publications](/publications.md).
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="https://drive.google.com/file/d/18w6xA75gd17_VJN4ExHrHtW4oLmg6WMi/view?usp=sharing">cv</a></li>
+          <li><a href="https://drive.google.com/file/d/18w6xA75gd17_VJN4ExHrHtW4oLmg6WMi/view?usp=sharing">Curriculum Vitæ</a></li>
           <li> Email:<a href = "mailto: someone@gmail.com"> someone@gmail.com</a></li>
           <li><a href="https://www.iit.it/it/research/lines/atomistic-simulations">IIT-Parrinello Group</a></li>
       </ul>
