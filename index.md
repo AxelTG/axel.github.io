@@ -4,7 +4,7 @@
 **Birthplace** Italy <br>
 **Species** _Australopitecus Ignarus_
 
-I am a M.Sc. student at University of Pavia currently involved in a thesis project about molecular simulation of complex chemical systems using enhanced sampling techniques.
+I am a M.Sc. Chemistry student currently involved in a thesis project on applications of enhanced sampling techniques for reaction mechanism elucidation.
 
 ```markdown
 Syntax highlighted code block
