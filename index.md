@@ -4,7 +4,8 @@
 **Birthplace** Italy <br>
 **Species** _Australopitecus Ignarus_
 
-I am a M.Sc. Chemistry student currently involved in a thesis project on applications of enhanced sampling techniques for reaction mechanism elucidation.
+I'm a PhD fellow at <a href="https://www.iit.it/it/">IIT Genoa</a>, working with Prof. Michele Parrinello in the <a href="https://www.iit.it/it/web/atomistic-simulations">Atomistic Simulations Group</a>.
+My research focuses on the intersection of computational chemistry and deep learning. I'm particularly interested in elucidation of mechanistic and kinetic aspects of reactions in water.
 
 ```markdown
 Syntax highlighted code block
