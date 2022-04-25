@@ -1,4 +1,4 @@
-### Readings I recommend
+## Readings I recommend
 
 - *Berserk*, by Miura Kentarō
 - *A Personal Matter*, by Ōe Kenzaburō
