@@ -1,4 +1,5 @@
 ### Readings I recommend
 
-- *A Personal Matter*, by Kenzaburō Ōe
-> citetion
+- *Berserk*, by Miura Kentarō
+- *A Personal Matter*, by Ōe Kenzaburō
+- *Confessions of a Mask*, by Mishima Yukio
