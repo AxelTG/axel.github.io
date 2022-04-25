@@ -21,10 +21,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### Research
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IzEBpQ0c8TA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+### Research interests
+- Development of deep learning based force fields for molecular dynamics simulations.
+- Applications of novel enhanced sampling techniques to molecular dynamics simulations of rare events.
+- Elucidation of mechanistic and kinetic aspects of reactions in water.
 See [Publications](/publications.md).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IzEBpQ0c8TA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### CV & Contact
 
