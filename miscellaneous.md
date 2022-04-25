@@ -1,4 +1,4 @@
-#### Miscellaneous
+### Miscellaneous
 
-##### [Readings I recommend](/blog/library.md)
+#### [Readings I recommend](/blog/library.md)
 
