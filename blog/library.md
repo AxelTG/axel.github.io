@@ -1,3 +1,3 @@
 ### Readings I recommend
 
-- *A personal matter*, by Kenzaburo Oe
+- *A Personal Matter*, by Kenzaburō Ōe
