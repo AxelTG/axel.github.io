@@ -7,3 +7,4 @@
 The story of a man confronting his life's tragedy to overcome humiliation and find a renewed sense of life.
 - *Confessions of a Mask*, by Mishima Yukio
 - *Memoirs of Hadrian*, by Marguerite Yourcenar
+- *Ossi di Seppia*, by Eugenio Montale
