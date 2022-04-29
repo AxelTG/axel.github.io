@@ -6,4 +6,6 @@ The story of a man confronting his life's tragedy to overcome humiliation and fi
 - *Berserk*, by Miura Kentarō
 - *Confessions of a Mask*, by Mishima Yukio
 - *Memoirs of Hadrian*, by Marguerite Yourcenar
-- *Ossi di Seppia*, by Eugenio Montale
+- *Ossi di Seppia*, by Eugenio Montale.<br>
+One of the greatest poetry collection by the Italian poet Eugenio Montale. With *Ossi di Seppia*, literaly "Cuttlefish Bones", Montale gives voice to the discomfort of contemporary man, configured as inadequacy about life.
+
